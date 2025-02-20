@@ -1,0 +1,73 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "BuilderDocument",
+        "m_EditorClassIdentifier": "UnityEditor.UIBuilderModule:Unity.UI.Builder:BuilderDocument",
+        "m_CurrentCanvasTheme": 4,
+        "m_CurrentCanvasThemeStyleSheetReference": {
+            "fileID": -4733365628477956816,
+            "guid": "88f6908ddacbc6c8995e61ce6af38525",
+            "type": 3
+        },
+        "m_CodePreviewVisible": true,
+        "m_OpenUXMLFiles": [
+            {
+                "m_OpenUSSFiles": [
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "cad7a896c41afb6369109c9dfadb39d0",
+                            "type": 3
+                        },
+                        "m_OldPath": "Assets/Editor/SimpleCustomEditor.uss"
+                    }
+                ],
+                "m_OpenendVisualTreeAssetOldPath": "Assets/Editor/SimpleCustomEditor.uxml",
+                "m_VisualTreeAssetRef": {
+                    "fileID": 9197481963319205126,
+                    "guid": "d9156dc624b9fda39b2f17a4849b9309",
+                    "type": 3
+                },
+                "m_ActiveStyleSheet": {
+                    "fileID": 7433441132597879392,
+                    "guid": "cad7a896c41afb6369109c9dfadb39d0",
+                    "type": 3
+                },
+                "m_Settings": {
+                    "UxmlGuid": "d9156dc624b9fda39b2f17a4849b9309",
+                    "UxmlPath": "Assets/Editor/SimpleCustomEditor.uxml",
+                    "CanvasX": 0,
+                    "CanvasY": 0,
+                    "CanvasWidth": 646,
+                    "CanvasHeight": 362,
+                    "MatchGameView": false,
+                    "ZoomScale": 2.154798746109009,
+                    "PanOffset": {
+                        "x": 0.0000050067901611328129,
+                        "y": 65.4040298461914
+                    },
+                    "ColorModeBackgroundOpacity": 1.0,
+                    "ImageModeCanvasBackgroundOpacity": 1.0,
+                    "CameraModeCanvasBackgroundOpacity": 1.0,
+                    "EnableCanvasBackground": false,
+                    "CanvasBackgroundMode": 0,
+                    "CanvasBackgroundColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "CanvasBackgroundImage": {
+                        "instanceID": 0
+                    },
+                    "CanvasBackgroundImageScaleMode": 1,
+                    "CanvasBackgroundCameraName": ""
+                },
+                "m_OpenSubDocumentParentIndex": -1,
+                "m_OpenSubDocumentParentSourceTemplateAssetIndex": -1
+            }
+        ],
+        "m_ActiveOpenUXMLFileIndex": 0
+    }
+}

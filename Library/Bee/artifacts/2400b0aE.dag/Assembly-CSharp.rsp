@@ -434,6 +434,7 @@
 -analyzer:"/home/joseph/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/joseph/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/home/joseph/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/ExitScript.cs"
 "Assets/Scripts/PlayerScript.cs"
 -langversion:9.0
 /deterministic
