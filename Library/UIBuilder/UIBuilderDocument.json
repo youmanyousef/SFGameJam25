@@ -13,39 +13,26 @@
         "m_CodePreviewVisible": true,
         "m_OpenUXMLFiles": [
             {
-                "m_OpenUSSFiles": [
-                    {
-                        "m_StyleSheet": {
-                            "fileID": 7433441132597879392,
-                            "guid": "cad7a896c41afb6369109c9dfadb39d0",
-                            "type": 3
-                        },
-                        "m_OldPath": "Assets/Editor/SimpleCustomEditor.uss"
-                    }
-                ],
-                "m_OpenendVisualTreeAssetOldPath": "Assets/Editor/SimpleCustomEditor.uxml",
+                "m_OpenUSSFiles": [],
+                "m_OpenendVisualTreeAssetOldPath": "",
                 "m_VisualTreeAssetRef": {
-                    "fileID": 9197481963319205126,
-                    "guid": "d9156dc624b9fda39b2f17a4849b9309",
-                    "type": 3
+                    "instanceID": 0
                 },
                 "m_ActiveStyleSheet": {
-                    "fileID": 7433441132597879392,
-                    "guid": "cad7a896c41afb6369109c9dfadb39d0",
-                    "type": 3
+                    "instanceID": 0
                 },
                 "m_Settings": {
-                    "UxmlGuid": "d9156dc624b9fda39b2f17a4849b9309",
-                    "UxmlPath": "Assets/Editor/SimpleCustomEditor.uxml",
+                    "UxmlGuid": "",
+                    "UxmlPath": "",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 646,
-                    "CanvasHeight": 362,
+                    "CanvasWidth": 350,
+                    "CanvasHeight": 450,
                     "MatchGameView": false,
-                    "ZoomScale": 2.154798746109009,
+                    "ZoomScale": 1.0,
                     "PanOffset": {
-                        "x": 0.0000050067901611328129,
-                        "y": 65.4040298461914
+                        "x": 20.0,
+                        "y": 20.0
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,
